@@ -1,6 +1,0 @@
-{
-  "supabaseUrl": "https://aakbfxytplebguhglnjo.supabase.co",
-  "supabaseKey": "sb_publishable_ZumlhXVv7HYYOLan8U8d4A_wY0botDx",
-  "bucket": "photobooth",
-  "tableName": "photobooth_sessions"
-}
